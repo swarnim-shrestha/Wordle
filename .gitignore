@@ -1,0 +1,16 @@
+# Compiled binaries
+wordle
+wordle.exe
+*.o
+*.out
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
